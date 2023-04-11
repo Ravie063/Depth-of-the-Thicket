@@ -1,5 +1,5 @@
 # Depth of the Thicket
- A one week university project made game using Monogame based on Microsoft Framework
+ A one week university project made game using Monogame based on Microsoft XNA Framework
 
 Contact me: russell.m.santos@gmail.com
 
